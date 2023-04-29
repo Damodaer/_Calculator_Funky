@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+h1 {
+    font-family: "popins", Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 2px rgba(255, 0, 0, 0.996);
+    border: 2px solid red;
+    color: rgb(208, 255, 0);
+    border: rgb(214, 162, 66) solid 50px;
+    border-image: url(./assets/funny-funky-monkey-line-pop-art-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.webp);
+    background-image: url(./assets/funny-funky-monkey-line-pop-art-logo-colorful-design-with-dark-background-abstract-illustration-isolated-black-background-for-t-shirt-poster-clothing-merch-apparel-badge-design-vector.webp);
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./assets/PSYCHEDELIC_DESIGN_jpg_J47tsVN9.avif);
+}
+
+table{
+    margin: auto;
+}
+
+#BG {
+     background-color: aqua;
+    
+}
+
+input{
+    border-radius: 21px;
+    font-size: 34px;
+    height: 65px;
+    width: 260px;
+    scroll-behavior: smooth;
+}
+
+button {
+    border-radius: 30px;
+    font-size: 20px;
+    background: #ffff;
+    width: 60px;
+    height: 50px;
+    margin: 6px;
+}
+
+.calculator{
+    margin: 7rem;
+    background-image: url(./assets/hip-funky-blue-turquoise-lime-green-pink-purple-orange-red-waves-art-pattern-lc-graphic-design-studio.jpg);
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-table;
+   
+}
